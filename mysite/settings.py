@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'pl-pl'
 
-TIME_ZONE = 'UTC' #TODO dokonano zmiany strefy czasu
+TIME_ZONE = 'Europe/Warsaw' #TODO dokonano zmiany strefy czasu
 
 USE_I18N = True
 
